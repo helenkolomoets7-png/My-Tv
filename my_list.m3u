@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1" tvg-logo="https://raw.githubusercontent.com/travino/tvpi/main/logos/tvp1.png" group-title="Польские",TVP 1
+https://raw.githubusercontent.com/travino/tvpi/main/streams/tvp1.m3u
