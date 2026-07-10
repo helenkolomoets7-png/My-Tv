@@ -10,6 +10,6 @@ http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="Sport.sk@SD",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="SVT1.se@HD",SVT1 (1080p) [Geo-blocked]
-https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8
 #EXTINF:-1 tvg-id="SVT2.se@HD",SVT2 (1080p) [Geo-blocked]
-https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
+https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8
