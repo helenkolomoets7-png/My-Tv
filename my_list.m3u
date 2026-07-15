@@ -13,3 +13,7 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8
 #EXTINF:-1 tvg-id="SVT2.se@HD",SVT2 (1080p) [Geo-blocked]
 https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports SD (720p)
+http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports SD (576p)
+https://trs1.aynaott.com/ddsports/index.m3u8
