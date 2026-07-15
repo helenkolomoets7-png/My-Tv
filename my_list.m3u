@@ -23,3 +23,21 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 http://nue01-edge01.itdc.ge/gpb/mpegts
 #EXTINF:-1 tvg-id="2TV.ge@SD",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (1080p)
+https://streamvidex.qzz.io/videx/telemundo/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (720p)
+http://168.228.44.241:9998/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (720p)
+http://45.181.87.106/TELEMUNDOHD/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (720p)
+http://200.91.32.158:8080/telemundo/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
