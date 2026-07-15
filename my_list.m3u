@@ -47,3 +47,21 @@ http://41.205.70.146/RTSUN/index.m3u8
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TabiiSpor6.tr@SD",Tabii Spor 6 (720p) [Geo-blocked]
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TelevisionPublica.ar@SD",Television Publica (720p)
+http://200.91.32.158:8080/tvpublica/index.m3u8
+#EXTINF:-1 tvg-id="",TV Publica (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p) [Geo-blocked]
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (720p)
+http://200.91.32.158:8080/tychd/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports2.ar@SD",TyC Sports 2 (720p)
+http://200.91.32.158:8080/tyc2hd/index.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
