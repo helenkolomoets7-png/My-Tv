@@ -17,3 +17,9 @@ https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8
 http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD",DD Sports SD (576p)
 https://trs1.aynaott.com/ddsports/index.m3u8
+#EXTINF:-1 tvg-id="1TV.ge@SD",1TV (720p)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="1TV.ge@SD",1TV
+http://nue01-edge01.itdc.ge/gpb/mpegts
+#EXTINF:-1 tvg-id="2TV.ge@SD",2TV (720p)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
